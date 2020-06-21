@@ -11,5 +11,6 @@ From the required methods file:
   *get the predicted character using the predict_character method.
   
   
-  Image for example is attached.
-  
+Exmaple image is attached.
+
+Have fun!
